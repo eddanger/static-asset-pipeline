@@ -1,0 +1,1 @@
+(function(){var a,b;a={monday:1,tuesday:2,wednesday:3,thursday:4,friday:5,saturday:6,sunday:7},yesterday===thursday&&(b=friday,we.excited(),we.have({ball:b}))}).call(this);
